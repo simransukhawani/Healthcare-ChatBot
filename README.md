@@ -56,9 +56,8 @@ The purpose of this project is to create a multi-language healthcare chatbot cap
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue for discussion.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
-If you'd like me to customize this further (e.g., repository URL, additional instructions), let me know!
+
